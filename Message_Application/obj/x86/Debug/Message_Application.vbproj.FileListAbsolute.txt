@@ -1,0 +1,9 @@
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\bin\Debug\Message_Application.exe
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\bin\Debug\Message_Application.pdb
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\bin\Debug\Message_Application.xml
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.MessageForm.resources
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.Resources.resources
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.vbproj.GenerateResource.Cache
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.exe
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.xml
+c:\users\srinivasan\documents\visual studio 2010\Projects\Message_Application\Message_Application\obj\x86\Debug\Message_Application.pdb
