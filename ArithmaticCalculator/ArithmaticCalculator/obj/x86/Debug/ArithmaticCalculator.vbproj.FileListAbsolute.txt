@@ -1,0 +1,9 @@
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\bin\Debug\ArithmaticCalculator.exe
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\bin\Debug\ArithmaticCalculator.pdb
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\bin\Debug\ArithmaticCalculator.xml
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.AdditionForm.resources
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.Resources.resources
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.vbproj.GenerateResource.Cache
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.exe
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.xml
+c:\users\srinivasan\documents\visual studio 2010\Projects\ArithmaticCalculator\ArithmaticCalculator\obj\x86\Debug\ArithmaticCalculator.pdb
